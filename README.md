@@ -1,6 +1,6 @@
 # Stock Analysis
 
-*Performing analysis on stock data to uncover daily volume and yearly return s.*
+*Performing analysis on stock data to uncover daily volume and yearly returns.*
 
 ## VBA_Challenge
 
@@ -8,11 +8,11 @@
 
 *Analysis of green energy stocks and comparison between total daily volume and yearly return for each stock.*
 
-*Refactor VBA code and measure performance*
+*Refactor VBA code and measure performance.*
 
 ### Purpose
 
-*Refactoring the VBA code using green_stocks VBA code, with the goal of making a code easy to reuse for my client*
+*Refactoring the VBA code using green_stocks VBA code, with the goal of making a code easy to reuse for my client.*
 
 ***
 
