@@ -18,9 +18,16 @@
 
 ### Results
 
+- In 2017, TERP was the only ticker that had a negative yearly return, in constrast to DQ that had the highest return.
+
 ![](VBA_Challenge_2017.png)
 
+
+- In 2018, ENPH and RUN  were the only tickers with positive percent change of 81% and 84* respectively.
+
 ![](VBA_Challenge_2018.png)
+
+- Refactoring the VBA script decreased the running time by 0.47 seconds.
 
 ***
 
